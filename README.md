@@ -38,7 +38,7 @@
     - pH
     - sulphates
     - alcohol
-   Output variable (based on sensory data): 
+  * Output variable (based on sensory data): 
     - quality
   
 
@@ -53,6 +53,6 @@
     - Boosting is also done on feature-filtered data and accuracy for that is also recorded      
 
 ## 5. Result<a name="results"></a>
-The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines
-Gradient Boost technique is performing the best for this dataset having 70% testing accuracy.
-The details of the results - [Wine.ipynb](https://github.com/piyushkumar08/Wine-Quality-Prediction/blob/main/Wine.ipynb)
+- The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones). Outlier detection algorithms could be used to detect the few excellent or poor wines.
+- Gradient Boost technique is performing the best for this dataset having 70% testing accuracy.
+- The details of the results - [Wine.ipynb](https://github.com/piyushkumar08/Wine-Quality-Prediction/blob/main/Wine.ipynb)
